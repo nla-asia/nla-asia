@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **naylinaung.cet@gmail.com**
 
-- ⚡ Fun fact **I can beat everyone with slightly more power on Head Ball 2 Online Football game.**
+- ⚡ Fun fact **I can beat everyone on Head Ball 2 Online Football game.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
