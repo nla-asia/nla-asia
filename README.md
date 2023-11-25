@@ -12,7 +12,7 @@
 
 ### I am a Senior Software Engineer at Coding Elephant Technology.
 
-- 🌱 I’m currently learning **rust programming language and computer vision.**
+- 🌱 I’m currently learning **rust and computer vision.**
 
 - 📝 I regularly write articles on [https://nayla.dev](https://nayla.dev)
 
