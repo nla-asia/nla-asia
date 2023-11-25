@@ -3,7 +3,7 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](#) 
 <p>
   <h1 align="center"><b>Hello there, I'm Nay Lin Aung 👋</b></h1>
-  <strong> I am a Senior Software Engineer at Coding Elephant Technology. I’m a self starter who enjoys collaborating in a team. My passion for lifelong learning motivates me to constantly explore and adapt to new technologies. </strong>
+  <strong> I am currently a Senior Software Engineer at Coding Elephant Technology. I’m a self starter who enjoys collaborating in a team. My passion for lifelong learning motivates me to constantly explore and adapt to new technologies. </strong>
 
 </p>
 
@@ -13,11 +13,11 @@
 
 
 
-- 🌱 I’m currently learning **rust and computer vision.**
+- 🌱 I’m currently learning **Rust and Computer Vision.**
 
 - 📝 I regularly write articles on [https://nayla.dev](https://nayla.dev)
 
-- 💬 Ask me about: **javascript, php, nodejs, python, flutter and aws.**
+- 💬 Ask me about: **JavaScript, PHP, Nodejs, Python, Nextjs, Laravel, Flutter and AWS.**
 
 - ⚡ Fun fact: **I can beat everyone on Head Ball 2 game :sunglasses: .**
 
