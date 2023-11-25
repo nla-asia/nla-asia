@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://nayla.dev](https://nayla.dev)
 
-- 💬 Ask me about: **javascript, php, nodejs, python,react, flutter and aws.**
+- 💬 Ask me about: **javascript, php, nodejs, python, flutter and aws.**
 
 - ⚡ Fun fact: **I can beat everyone on Head Ball 2 Online Football game :raised_hands: .**
 
