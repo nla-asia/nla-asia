@@ -3,6 +3,8 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](#) 
 <p>
   <h1 align="center"><b>Hello there, I'm Nay Lin Aung 👋</b></h1>
+  ### I am a Senior Software Engineer at Coding Elephant Technology.
+
 </p>
 
 
@@ -10,7 +12,6 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am a Senior Software Engineer at Coding Elephant Technology.
 
 - 🌱 I’m currently learning **rust and computer vision.**
 
