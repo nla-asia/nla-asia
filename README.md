@@ -19,7 +19,7 @@
 
 - 💬 Ask me about: **javascript, php, nodejs, python, flutter and aws.**
 
-- ⚡ Fun fact: **I can beat everyone on Head Ball 2 game :raised_hands: .**
+- ⚡ Fun fact: **I can beat everyone on Head Ball 2 game :sunglasses: .**
 
  </p>
  
