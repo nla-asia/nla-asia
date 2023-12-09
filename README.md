@@ -3,7 +3,7 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](#) 
 <p>
   <h1 align="center"><b>Hello there, I'm Nay Lin Aung 👋</b></h1>
-  <strong> I am a results-driven Software Engineer with a proven track record in designing, developing, and maintaining complex software systems, always striving for excellence and efficiency in every project I undertake. </strong>
+  <strong> I am a results-driven Software Engineer with a proven track record in designing, developing, and maintaining complex software systems, always striving for excellence and efficiency in every project I undertake. I am always ready to take on new challenges and learn new technologies. </strong>
 
 </p>
 
