@@ -3,7 +3,7 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](#) 
 <p>
   <h1 align="center"><b>Hello there, I'm Nay Lin Aung 👋</b></h1>
-  <strong> I am currently a Senior Software Engineer at Coding Elephant Technology. I’m a self starter who enjoys collaborating in a team. My passion for lifelong learning motivates me to constantly explore and adapt to new technologies. </strong>
+  <strong> I am a results-driven Software Engineer with a proven track record in designing, developing, and maintaining complex software systems, always striving for excellence and efficiency in every project I undertake. </strong>
 
 </p>
 
