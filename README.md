@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Rust and Computer Vision.**
 
-- 📝 I regularly write articles on [https://nayla.dev](https://nayla.dev)
+- 📝 I occasionally write articles on [https://nayla.dev](https://nayla.dev)
 
 - 💬 Ask me about: **JavaScript, PHP, Nodejs, Python, Nextjs, Laravel, Flutter and AWS.**
 
